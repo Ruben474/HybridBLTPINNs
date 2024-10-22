@@ -1,1 +1,1 @@
-"# HybridBLTPINNs" 
+# HybridBLTPINNs
